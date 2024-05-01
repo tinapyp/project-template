@@ -1,4 +1,4 @@
-This is my folder structure i'm using, this folder template based on cookie cutter data science project template, but removed but i not need xD
+This is the folder structure I use, this folder template is based on a cookie cutter data science project template, but removed some I didn't need 🙌
 
 Project Organization
 ------------
